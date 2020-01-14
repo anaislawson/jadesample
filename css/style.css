@@ -1,1 +1,49 @@
-style.css
+img{
+	height: 300px;
+}
+
+h1{
+	color: aquamarine;
+}
+
+.font-size-medium{
+	font-size:50px;
+}
+
+.blue-text{
+	color: #C9DDFF;
+}
+
+#this-header{
+	font-size:100px;
+}
+
+.font-lobster{
+	font-family: 'Lobster', cursive;
+}
+
+.background-color{
+	background-color: #7D869C !important;
+}
+
+.text-center{
+	text-align: center;
+}
+
+div{
+	padding: 20px;
+	margin: 20px
+}
+
+.background-blue{
+	background-color:#586BA4;
+} 
+
+.pink{
+	background-color:#F76C5E;
+}
+
+#div1{
+	padding:100px;
+	margin:100px;
+}
